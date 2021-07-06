@@ -10,3 +10,5 @@ Video 34. verificar la clase GregorianCalendar. y la clase Date.
 
 Video 35. Revisar la diferencia entre arreglo Clase String a un arreglo de una clase Propia.
 
+          Ver el foreach para el procentaje del video 35
+
