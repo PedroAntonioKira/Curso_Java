@@ -21,3 +21,7 @@ Video 40. Validar si en la herencia el objeto que hereda el hijo es el mismo que
           
 Video 40. Verificar omo aplicar el metodo super(); para obtener el constructor del padre si este tiene sobrecarga de constructores.
 
+
+
+Video 44. Verificar que sucede cuando se tiene un padre y un nieto con los metodos. (si se puede o no hacer), ver polimorfismo, sobrecarga de constructores y 
+reemplazo de metodos.
