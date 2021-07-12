@@ -25,3 +25,13 @@ Video 40. Verificar omo aplicar el metodo super(); para obtener el constructor d
 
 Video 44. Verificar que sucede cuando se tiene un padre y un nieto con los metodos. (si se puede o no hacer), ver polimorfismo, sobrecarga de constructores y 
 reemplazo de metodos.
+
+
+
+
+//********************************************************************************
+Personal
+
+
+
+Verificar porque al parece el uso de static proque no permite manejar variables externas a un metodo que es declarado como static, si no que el metodo static tiene que utilizar variables creadas dentro de ese mismo metodo y no por variables creadas fuera de ese metedo ya que no te deja utilizarlas.
